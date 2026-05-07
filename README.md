@@ -1,6 +1,14 @@
 # mentor-carreira-ia
 Mentor de carreira com IA que analisa perfil e sugere áreas em tecnologia de forma personalizada.
 
+
+## 🎯 Público-Alvo
+
+- Pessoas em transição de carreira
+- Iniciantes em tecnologia
+- Profissionais indecisos sobre carreira
+``
+
 # 🤖 Mentor de Carreira com IA
 
 ## 🎯 Objetivo
@@ -81,6 +89,10 @@ Com base em:
 3. Veja a análise e recomendação final
 
 ---
+
+## 🚀 Impacto
+
+Este projeto ajuda usuários a tomarem decisões mais assertivas sobre suas carreiras, reduzindo incertezas e acelerando o aprendizado em tecnologia.
 
 ## ✅ Conclusão
 
