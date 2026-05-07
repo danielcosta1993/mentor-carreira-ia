@@ -11,6 +11,13 @@ O sistema conduz uma entrevista estruturada e sugere carreiras personalizadas co
 
 ---
 
+## 🔄 Fluxo do Sistema
+
+1. Usuário responde 7 perguntas
+2. IA analisa o perfil
+3. Sugestão de 3 carreiras
+4. Geração de plano de estudos personalizado
+
 ## ⚙️ Como Funciona
 
 O mentor realiza 7 perguntas para entender:
